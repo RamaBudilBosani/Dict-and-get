@@ -1,0 +1,3 @@
+d = {'name': 'Sam', 'age': 18}
+
+print(d.get('name', 'Unknown'))
